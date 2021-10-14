@@ -1,0 +1,8 @@
+{
+    "currencies": [
+        ["BTC", 0, "binance"],
+        ["1INCH", 9.49, "binance"],
+        ["O3", 41.4127, "coinex"]
+
+    ]
+}
